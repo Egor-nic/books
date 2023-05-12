@@ -1,0 +1,6 @@
+.book-card-wrapper {
+    max-width: 1600px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}

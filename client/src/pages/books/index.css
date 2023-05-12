@@ -1,0 +1,21 @@
+
+
+.search-books-img-wrapper {
+    width: 20px;
+    height: 20px;
+}
+
+.total-page,
+.next-page {
+    display: flex;
+    justify-content: center;
+}
+
+.next-page span{
+    cursor: pointer;
+}
+
+.next-page span:hover {
+    color: red;
+    transition: 0.5s;
+}
